@@ -1,0 +1,11 @@
+# Versions are not pinned: the original work ran on Google Colab's default environment
+# (the notebook's first cell prints the exact Python/TensorFlow versions used).
+# Uses the Keras 3 ".keras" format, so a recent TensorFlow (2.16+) is expected.
+tensorflow>=2.16
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
